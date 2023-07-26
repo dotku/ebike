@@ -18,6 +18,8 @@ So in summary, an exact count is difficult, but experts suggest around 1,000+ ma
 | Brand | Est.	| Frame Warranty | Wheelsets Warranty | UCI Approved | Products	Crash Replacement	| Live Chat |
 | --- | --- | --- | --- | --- | --- | --- | 
 | [Ouxi](https://store.ouxi.us/) | | | | | | No |
+| [Jasion Bike](https://www.jasionbike.com/) | | | | | | Yes |
+| [Blix](https://blixbike.com/) | | | | | | Yes |
 
 ## Tranditional Bike
 
