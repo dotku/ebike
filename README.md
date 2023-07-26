@@ -17,6 +17,12 @@ So in summary, an exact count is difficult, but experts suggest around 1,000+ ma
 
 | Brand | Est.	| Frame Warranty | Wheelsets Warranty | UCI Approved | Products	Crash Replacement	| Live Chat |
 | --- | --- | --- | --- | --- | --- | --- | 
+| [Ouxi](https://store.ouxi.us/) | | | | | | No |
+
+## Other
+
+| Brand | Est.	| Frame Warranty | Wheelsets Warranty | UCI Approved | Products	Crash Replacement	| Live Chat |
+| --- | --- | --- | --- | --- | --- | --- | 
 | YOELEO	| 2011 | 	6 years |	3 years |	Yes |	No	| Yes |
 | Winspace	| 2011 | 	3 years |	2 years |	Yes |	No	| Yes |
 | Elitewheels	| 2013 | 	n/a |	3 years |	Yes |	No	| Yes |
@@ -24,4 +30,3 @@ So in summary, an exact count is difficult, but experts suggest around 1,000+ ma
 | Farsports	| 2004 | 	n/a |	2 years |	Yes |	Yes (35%)	| Yes |
 | Trifox	| 2008 | 	3 years |	3 years |	No |	Yes (12%)	| Yes |
 | Trifox	| 2016 | 	5 years |	2 years |	Yes |	No	| Yes |
-| [Ouxi](https://store.ouxi.us/) | | | | | | No |
