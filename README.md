@@ -24,4 +24,4 @@ So in summary, an exact count is difficult, but experts suggest around 1,000+ ma
 | Farsports	| 2004 | 	n/a |	2 years |	Yes |	Yes (35%)	| Yes |
 | Trifox	| 2008 | 	3 years |	3 years |	No |	Yes (12%)	| Yes |
 | Trifox	| 2016 | 	5 years |	2 years |	Yes |	No	| Yes |
-| [Ouxi](https://store.ouxi.us/) | | | | | | |
+| [Ouxi](https://store.ouxi.us/) | | | | | | No |
