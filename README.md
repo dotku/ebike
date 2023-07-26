@@ -19,7 +19,7 @@ So in summary, an exact count is difficult, but experts suggest around 1,000+ ma
 | --- | --- | --- | --- | --- | --- | --- | 
 | [Ouxi](https://store.ouxi.us/) | | | | | | No |
 
-## Other
+## Tranditional Bike
 
 | Brand | Est.	| Frame Warranty | Wheelsets Warranty | UCI Approved | Products	Crash Replacement	| Live Chat |
 | --- | --- | --- | --- | --- | --- | --- | 
